@@ -1,0 +1,18 @@
+/* Main menu */
+"menu.keep_display_awake" = "Не выключать экран";
+"menu.quit" = "Завершить NoSleep";
+
+/* Status */
+"status.active" = "Экран и автосон заблокированы";
+"status.inactive" = "NoSleep выключен";
+"accessibility.enabled" = "NoSleep включён";
+"accessibility.disabled" = "NoSleep выключен";
+"tooltip.enabled" = "NoSleep включён — экран и Mac не уснут автоматически";
+"tooltip.disabled" = "NoSleep выключен";
+
+/* Error dialog */
+"alert.enable_failed.title" = "Не удалось включить NoSleep";
+"button.ok" = "OK";
+"error.assertion.display_target" = "выключение экрана";
+"error.assertion.system_target" = "переход системы в сон";
+"error.assertion.format" = "macOS не разрешила заблокировать %@ (код IOKit: %d).";

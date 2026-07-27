@@ -1,0 +1,18 @@
+/* Main menu */
+"menu.keep_display_awake" = "Garder l’écran allumé";
+"menu.quit" = "Quitter NoSleep";
+
+/* Status */
+"status.active" = "L’extinction de l’écran et la veille automatique sont bloquées";
+"status.inactive" = "NoSleep est désactivé";
+"accessibility.enabled" = "NoSleep est activé";
+"accessibility.disabled" = "NoSleep est désactivé";
+"tooltip.enabled" = "NoSleep est activé — l’écran et le Mac ne se mettront pas automatiquement en veille";
+"tooltip.disabled" = "NoSleep est désactivé";
+
+/* Error dialog */
+"alert.enable_failed.title" = "Impossible d’activer NoSleep";
+"button.ok" = "OK";
+"error.assertion.display_target" = "la mise en veille de l’écran";
+"error.assertion.system_target" = "la mise en veille du système";
+"error.assertion.format" = "macOS n’a pas autorisé NoSleep à empêcher %@ (code d’erreur IOKit : %d).";

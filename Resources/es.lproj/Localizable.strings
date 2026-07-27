@@ -1,0 +1,18 @@
+/* Main menu */
+"menu.keep_display_awake" = "Mantener la pantalla encendida";
+"menu.quit" = "Salir de NoSleep";
+
+/* Status */
+"status.active" = "La pantalla y el reposo automático están bloqueados";
+"status.inactive" = "NoSleep está desactivado";
+"accessibility.enabled" = "NoSleep está activado";
+"accessibility.disabled" = "NoSleep está desactivado";
+"tooltip.enabled" = "NoSleep está activado — la pantalla y el Mac no entrarán en reposo automáticamente";
+"tooltip.disabled" = "NoSleep está desactivado";
+
+/* Error dialog */
+"alert.enable_failed.title" = "No se ha podido activar NoSleep";
+"button.ok" = "Aceptar";
+"error.assertion.display_target" = "el reposo de la pantalla";
+"error.assertion.system_target" = "el reposo del sistema";
+"error.assertion.format" = "macOS no ha permitido que NoSleep impida %@ (código de error de IOKit: %d).";

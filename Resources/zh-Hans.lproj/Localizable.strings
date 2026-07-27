@@ -1,0 +1,18 @@
+/* Main menu */
+"menu.keep_display_awake" = "保持屏幕常亮";
+"menu.quit" = "退出 NoSleep";
+
+/* Status */
+"status.active" = "已阻止屏幕关闭和自动睡眠";
+"status.inactive" = "NoSleep 已关闭";
+"accessibility.enabled" = "NoSleep 已开启";
+"accessibility.disabled" = "NoSleep 已关闭";
+"tooltip.enabled" = "NoSleep 已开启 — 屏幕和 Mac 不会自动进入睡眠";
+"tooltip.disabled" = "NoSleep 已关闭";
+
+/* Error dialog */
+"alert.enable_failed.title" = "无法启用 NoSleep";
+"button.ok" = "好";
+"error.assertion.display_target" = "显示器休眠";
+"error.assertion.system_target" = "系统休眠";
+"error.assertion.format" = "macOS 不允许 NoSleep 阻止%@（IOKit 错误代码：%d）。";

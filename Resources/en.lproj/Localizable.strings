@@ -1,0 +1,18 @@
+/* Main menu */
+"menu.keep_display_awake" = "Keep Display Awake";
+"menu.quit" = "Quit NoSleep";
+
+/* Status */
+"status.active" = "Display and idle sleep are blocked";
+"status.inactive" = "NoSleep is off";
+"accessibility.enabled" = "NoSleep is on";
+"accessibility.disabled" = "NoSleep is off";
+"tooltip.enabled" = "NoSleep is on — the display and Mac will not sleep automatically";
+"tooltip.disabled" = "NoSleep is off";
+
+/* Error dialog */
+"alert.enable_failed.title" = "Could Not Enable NoSleep";
+"button.ok" = "OK";
+"error.assertion.display_target" = "display sleep";
+"error.assertion.system_target" = "system sleep";
+"error.assertion.format" = "macOS did not allow NoSleep to prevent %@ (IOKit error code: %d).";

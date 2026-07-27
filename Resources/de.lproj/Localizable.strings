@@ -1,0 +1,18 @@
+/* Main menu */
+"menu.keep_display_awake" = "Bildschirm eingeschaltet lassen";
+"menu.quit" = "NoSleep beenden";
+
+/* Status */
+"status.active" = "Bildschirm- und automatischer Ruhezustand werden verhindert";
+"status.inactive" = "NoSleep ist deaktiviert";
+"accessibility.enabled" = "NoSleep ist aktiviert";
+"accessibility.disabled" = "NoSleep ist deaktiviert";
+"tooltip.enabled" = "NoSleep ist aktiviert — Bildschirm und Mac wechseln nicht automatisch in den Ruhezustand";
+"tooltip.disabled" = "NoSleep ist deaktiviert";
+
+/* Error dialog */
+"alert.enable_failed.title" = "NoSleep konnte nicht aktiviert werden";
+"button.ok" = "OK";
+"error.assertion.display_target" = "das Ausschalten des Bildschirms";
+"error.assertion.system_target" = "den Systemruhezustand";
+"error.assertion.format" = "macOS hat NoSleep nicht erlaubt, %@ zu verhindern (IOKit-Fehlercode: %d).";
