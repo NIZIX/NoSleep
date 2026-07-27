@@ -1,6 +1,14 @@
 # NoSleep
 
+<div align="center">
+  <div>
+    <img src="./Resources/AppIcon.svg" alt="drawing" width="300"/>
+  </div>
+  <div>
 A native macOS menu bar app that keeps the display on and prevents the Mac from going to sleep because of inactivity.
+  </div>
+</div>
+
 
 ## Usage
 
